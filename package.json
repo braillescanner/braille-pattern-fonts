@@ -1,0 +1,16 @@
+{
+	"name": "braille-font",
+	"description": "font subsets only containing the braille patterns unicode block",
+	"keywords": [
+		"braille", "patterns", "unicode", "font"
+	],
+
+	"version": "0.0.0",
+
+	"homepage": "https://github.com/reiner-dolp/braille-pattern-font",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/reiner-dolp/braille-pattern-font.git"
+	},
+	"main": "./stylesheet.css"
+}
